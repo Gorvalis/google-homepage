@@ -1,5 +1,6 @@
 glogo {
-    max-width:10px;
+    display: grid;
+    place-items: center;
 }
 p{
 color:red;
