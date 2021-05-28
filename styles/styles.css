@@ -2,3 +2,7 @@ glogo {
     display: grid;
     place-items: center;
 }
+header {
+    display:grid;
+    grid-template-columns: repeat(2,auto) 1fr repeat(4,auto);
+}
