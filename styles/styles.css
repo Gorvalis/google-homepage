@@ -6,3 +6,8 @@ header {
     display:grid;
     grid-template-columns: repeat(2,auto) 1fr repeat(4,auto);
 }
+footer {
+    display:flex;
+    justify-content:space-between;
+
+}
