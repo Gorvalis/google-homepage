@@ -24,4 +24,6 @@ sbuttons{
 sbox{
     display:flex;
     justify-content: center;
+
 }
+#searchbox{border-radius: 25px;}
