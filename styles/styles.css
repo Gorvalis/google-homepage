@@ -26,4 +26,8 @@ sbox{
     justify-content: center;
 
 }
-#searchbox{border-radius: 25px;}
+#searchbox{border-radius: 25px;
+border-width: 2px;
+height:40px;
+width:500px;
+}
